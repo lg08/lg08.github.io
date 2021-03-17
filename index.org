@@ -38,6 +38,8 @@
 
 * This is a top org mode header
 
+inside of the thing
+
 ** This a subheader thing
 
 #+BEGIN_SRC python

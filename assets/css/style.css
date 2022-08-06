@@ -52,8 +52,8 @@
     to right, 
     /* hsl(45, 100%, 72%), 
     hsl(35, 100%, 68%) */
-    hsl(152, 100%, 72%), 
-    hsl(136, 100%, 68%)
+    hsl(26, 91%, 61%), 
+    hsl(26, 74%, 50%)
   );
 
   /* solid */
@@ -66,9 +66,11 @@
   --white-1: hsl(0, 0%, 100%);
   --white-2: hsl(0, 0%, 98%);
   /* --orange-yellow-crayola: hsl(45, 100%, 72%); */
-  --orange-yellow-crayola: hsl(318, 100%, 72%);
+  --orange-yellow-crayola: hsl(26, 74%, 50%);
+  /* --orange-yellow-crayola: rgb(220 113 33) */
   /* --vegas-gold: hsl(45, 54%, 58%); */
-  --vegas-gold: hsl(255, 54%, 58%);
+  --vegas-gold: hsl(26, 93%, 68%);
+  /* --vegas-gold: hsl(255, 54%, 58%); */
   --light-gray: hsl(0, 0%, 84%);
   --light-gray-70: hsla(0, 0%, 84%, 0.7);
   --bittersweet-shimmer: hsl(0, 43%, 51%);
